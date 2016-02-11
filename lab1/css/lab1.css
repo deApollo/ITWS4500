@@ -1,0 +1,22 @@
+#t_viewer{
+	padding-top: 200px;
+}
+
+#tweets {
+	background-color: lightblue;
+}
+
+#tags {
+	background-color: lightblue;
+}
+
+#tweets img{
+	border-radius: 50%;
+	height: 48px;
+	width: 48px;
+	display: inline-block;
+}
+
+body {
+	background-color: lightgrey;
+}

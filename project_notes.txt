@@ -1,0 +1,28 @@
+-User login
+	-email
+	-password
+
+-history of workouts
+	-workout id
+	-timestamp
+
+-workouts
+	-tied to set of excercieses
+
+-excercieses
+	-have types 
+		-bodyweight
+			-set
+			-rep
+		-weight lifting
+			-set
+			-rep
+			-weight
+		-intervals
+			-set
+			-timeinterval (seconds)
+
+-preference
+
+-search
+

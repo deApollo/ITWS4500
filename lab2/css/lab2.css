@@ -1,0 +1,16 @@
+
+#t_viewer{
+	margin-top: 200px;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+
+#weather_info {
+	display: inline;
+	float: right;
+}
+
+body {
+	background-color: lightgrey;
+}
